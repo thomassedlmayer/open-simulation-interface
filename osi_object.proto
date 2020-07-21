@@ -450,6 +450,7 @@ message MovingObject
             // The axle which contains this wheel.  A value of 0 represents the
             // front-most axle of the vehicle with higher numbers incrementing
             // towards the rear-most axle.
+            //
             optional uint32 axle = 1;
 
             // The index of the wheel on the axle, counting in the direction
@@ -457,14 +458,17 @@ message MovingObject
             //
             // For example, on a standard 2-axle, 4-wheel car, the rear-right
             // wheel would be (axle=1, index=0).
+            //
             optional uint32 index = 2;
 
             // Steering angle with positive values indicating a clockwise
             // rotation about the z-axis.  Must be zero for non-steering
             // wheels.
+            //
             optional double steer_angle = 3;
 
             // Rotation of the wheel about the axle in radians per second.
+            //
             optional double rotation_rate = 4;
 
             // Current rotation about the axle.  Rotation angle
@@ -473,6 +477,7 @@ message MovingObject
             //
             // \note This value doesn't wrap but permanently increases or
             // decreases.
+            //
             optional double rotation_angle = 5;
         }
     }

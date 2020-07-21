@@ -75,7 +75,7 @@ message TrafficUpdate
         repeated FutureTrajectoryNode future_trajectory = 2;
 
         //
-        // /brief The future node is a single point in time as part of a future
+        // \brief The future node is a single point in time as part of a future
         // trajectory which defines the pose, velocity, acceleration, etc. at
         // that point.
         // See the FutureTrajectory message for details and context.
