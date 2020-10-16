@@ -460,25 +460,24 @@ message MovingObject
             // wheel would be (axle=1, index=0).
             //
             optional uint32 index = 2;
+            
+            // The coordinates are given globally.
+            // Reference point is the center of the wheel.
+            //
+            optional Vector3d position = 3;
 
-            // Steering angle with positive values indicating a clockwise
-            // rotation about the z-axis.  Must be zero for non-steering
-            // wheels.
+            // The orientation is given globally.
+            // E.g. a calculation of the steering angle can then be done by:
+            // moving_object.yaw - wheel.yaw
             //
-            optional double steer_angle = 3;
+            optional Orientation3d orientation = 4;
 
-            // Rotation of the wheel about the axle in radians per second.
+            // Rotation of the wheel around the axle.
             //
-            optional double rotation_rate = 4;
-
-            // Current rotation about the axle.  Rotation angle
-            // increases as the vehicle moves forward (x-positive) and
-            // decreases as the vehicle moves backwards.
+            // Unit: Rad/s.
+            // Positive means, that the vehicle moves forward.
             //
-            // \note This value doesn't wrap but permanently increases or
-            // decreases.
-            //
-            optional double rotation_angle = 5;
+            optional double rotation_rate = 5;
         }
     }
 
