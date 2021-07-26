@@ -22,6 +22,7 @@ var annotated_dup =
       [ "DetectedTrafficSign", "structosi3_1_1DetectedTrafficSign.html", "structosi3_1_1DetectedTrafficSign" ],
       [ "Dimension3d", "structosi3_1_1Dimension3d.html", "structosi3_1_1Dimension3d" ],
       [ "EnvironmentalConditions", "structosi3_1_1EnvironmentalConditions.html", "structosi3_1_1EnvironmentalConditions" ],
+      [ "ExternalReference", "structosi3_1_1ExternalReference.html", "structosi3_1_1ExternalReference" ],
       [ "FeatureData", "structosi3_1_1FeatureData.html", "structosi3_1_1FeatureData" ],
       [ "FileOptions", "structosi3_1_1FileOptions.html", "structosi3_1_1FileOptions" ],
       [ "GenericSensorView", "structosi3_1_1GenericSensorView.html", "structosi3_1_1GenericSensorView" ],
@@ -37,6 +38,9 @@ var annotated_dup =
       [ "LidarSensorView", "structosi3_1_1LidarSensorView.html", "structosi3_1_1LidarSensorView" ],
       [ "LidarSensorViewConfiguration", "structosi3_1_1LidarSensorViewConfiguration.html", "structosi3_1_1LidarSensorViewConfiguration" ],
       [ "LidarSpecificObjectData", "structosi3_1_1LidarSpecificObjectData.html", null ],
+      [ "LogicalDetection", "structosi3_1_1LogicalDetection.html", "structosi3_1_1LogicalDetection" ],
+      [ "LogicalDetectionData", "structosi3_1_1LogicalDetectionData.html", "structosi3_1_1LogicalDetectionData" ],
+      [ "LogicalDetectionDataHeader", "structosi3_1_1LogicalDetectionDataHeader.html", "structosi3_1_1LogicalDetectionDataHeader" ],
       [ "MountingPosition", "structosi3_1_1MountingPosition.html", "structosi3_1_1MountingPosition" ],
       [ "MovingObject", "structosi3_1_1MovingObject.html", "structosi3_1_1MovingObject" ],
       [ "Occupant", "structosi3_1_1Occupant.html", "structosi3_1_1Occupant" ],
@@ -54,11 +58,15 @@ var annotated_dup =
       [ "SensorView", "structosi3_1_1SensorView.html", "structosi3_1_1SensorView" ],
       [ "SensorViewConfiguration", "structosi3_1_1SensorViewConfiguration.html", "structosi3_1_1SensorViewConfiguration" ],
       [ "Spherical3d", "structosi3_1_1Spherical3d.html", "structosi3_1_1Spherical3d" ],
+      [ "StatePoint", "structosi3_1_1StatePoint.html", "structosi3_1_1StatePoint" ],
       [ "StationaryObject", "structosi3_1_1StationaryObject.html", "structosi3_1_1StationaryObject" ],
       [ "Timestamp", "structosi3_1_1Timestamp.html", "structosi3_1_1Timestamp" ],
+      [ "TrafficAction", "structosi3_1_1TrafficAction.html", "structosi3_1_1TrafficAction" ],
+      [ "TrafficCommand", "structosi3_1_1TrafficCommand.html", "structosi3_1_1TrafficCommand" ],
       [ "TrafficLight", "structosi3_1_1TrafficLight.html", "structosi3_1_1TrafficLight" ],
       [ "TrafficSign", "structosi3_1_1TrafficSign.html", "structosi3_1_1TrafficSign" ],
       [ "TrafficSignValue", "structosi3_1_1TrafficSignValue.html", "structosi3_1_1TrafficSignValue" ],
+      [ "TrafficUpdate", "structosi3_1_1TrafficUpdate.html", "structosi3_1_1TrafficUpdate" ],
       [ "UltrasonicDetection", "structosi3_1_1UltrasonicDetection.html", "structosi3_1_1UltrasonicDetection" ],
       [ "UltrasonicDetectionData", "structosi3_1_1UltrasonicDetectionData.html", "structosi3_1_1UltrasonicDetectionData" ],
       [ "UltrasonicDetectionSpecificHeader", "structosi3_1_1UltrasonicDetectionSpecificHeader.html", "structosi3_1_1UltrasonicDetectionSpecificHeader" ],
@@ -67,6 +75,7 @@ var annotated_dup =
       [ "UltrasonicSensorViewConfiguration", "structosi3_1_1UltrasonicSensorViewConfiguration.html", "structosi3_1_1UltrasonicSensorViewConfiguration" ],
       [ "UltrasonicSpecificObjectData", "structosi3_1_1UltrasonicSpecificObjectData.html", "structosi3_1_1UltrasonicSpecificObjectData" ],
       [ "Vector2d", "structosi3_1_1Vector2d.html", "structosi3_1_1Vector2d" ],
-      [ "Vector3d", "structosi3_1_1Vector3d.html", "structosi3_1_1Vector3d" ]
+      [ "Vector3d", "structosi3_1_1Vector3d.html", "structosi3_1_1Vector3d" ],
+      [ "WavelengthData", "structosi3_1_1WavelengthData.html", "structosi3_1_1WavelengthData" ]
     ] ]
 ];
