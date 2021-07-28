@@ -94,7 +94,16 @@ message StationaryObject
 
         // The dominating color of the material of the structure.
         //
+        // \attention DEPRECATED: This color enum will be removed in version
+        // 4.0.0. Use the field \c #color_description (\c ColorDescription)
+        // instead.
+        //
         optional Color color = 4;
+
+        //
+        // The dominating color of the material of the structure.
+        //
+        optional ColorDescription color_description = 5;
 
         // Definition of object types.
         //
@@ -256,6 +265,10 @@ message StationaryObject
         }
 
         // Definition of colors for structures.
+        //
+        // \attention DEPRECATED: This color enum will be removed in version
+        // 4.0.0. Use \c ColorDescription instead.
+        //
         //
         enum Color
         {
