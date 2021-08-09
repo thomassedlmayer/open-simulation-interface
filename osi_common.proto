@@ -630,7 +630,7 @@ message ColorGrey
 }
 
 //
-// RGB color model
+// \brief RGB color model
 //
 // ColorRGB provides values for red, green and blue.
 //
