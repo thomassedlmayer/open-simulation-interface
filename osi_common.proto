@@ -635,7 +635,7 @@ message ColorGrey
 // ColorRGB provides values for red, green and blue.
 //
 message ColorRGB
-{   
+{
     // Red ratio
     //
     // Range: [0,1]
