@@ -10,6 +10,13 @@ var annotated_dup =
       [ "CameraSensorView", "structosi3_1_1CameraSensorView.html", "structosi3_1_1CameraSensorView" ],
       [ "CameraSensorViewConfiguration", "structosi3_1_1CameraSensorViewConfiguration.html", "structosi3_1_1CameraSensorViewConfiguration" ],
       [ "CameraSpecificObjectData", "structosi3_1_1CameraSpecificObjectData.html", null ],
+      [ "ColorCMYK", "structosi3_1_1ColorCMYK.html", "structosi3_1_1ColorCMYK" ],
+      [ "ColorDescription", "structosi3_1_1ColorDescription.html", "structosi3_1_1ColorDescription" ],
+      [ "ColorGrey", "structosi3_1_1ColorGrey.html", "structosi3_1_1ColorGrey" ],
+      [ "ColorHSV", "structosi3_1_1ColorHSV.html", "structosi3_1_1ColorHSV" ],
+      [ "ColorLUV", "structosi3_1_1ColorLUV.html", "structosi3_1_1ColorLUV" ],
+      [ "ColorRGB", "structosi3_1_1ColorRGB.html", "structosi3_1_1ColorRGB" ],
+      [ "ColorRGBIR", "structosi3_1_1ColorRGBIR.html", "structosi3_1_1ColorRGBIR" ],
       [ "DetectedEntityHeader", "structosi3_1_1DetectedEntityHeader.html", "structosi3_1_1DetectedEntityHeader" ],
       [ "DetectedItemHeader", "structosi3_1_1DetectedItemHeader.html", "structosi3_1_1DetectedItemHeader" ],
       [ "DetectedLane", "structosi3_1_1DetectedLane.html", "structosi3_1_1DetectedLane" ],
@@ -27,6 +34,7 @@ var annotated_dup =
       [ "FileOptions", "structosi3_1_1FileOptions.html", "structosi3_1_1FileOptions" ],
       [ "GenericSensorView", "structosi3_1_1GenericSensorView.html", "structosi3_1_1GenericSensorView" ],
       [ "GenericSensorViewConfiguration", "structosi3_1_1GenericSensorViewConfiguration.html", "structosi3_1_1GenericSensorViewConfiguration" ],
+      [ "GeodeticPosition", "structosi3_1_1GeodeticPosition.html", "structosi3_1_1GeodeticPosition" ],
       [ "GroundTruth", "structosi3_1_1GroundTruth.html", "structosi3_1_1GroundTruth" ],
       [ "HostVehicleData", "structosi3_1_1HostVehicleData.html", "structosi3_1_1HostVehicleData" ],
       [ "Identifier", "structosi3_1_1Identifier.html", "structosi3_1_1Identifier" ],
@@ -45,6 +53,7 @@ var annotated_dup =
       [ "MovingObject", "structosi3_1_1MovingObject.html", "structosi3_1_1MovingObject" ],
       [ "Occupant", "structosi3_1_1Occupant.html", "structosi3_1_1Occupant" ],
       [ "Orientation3d", "structosi3_1_1Orientation3d.html", "structosi3_1_1Orientation3d" ],
+      [ "Pedalry", "structosi3_1_1Pedalry.html", "structosi3_1_1Pedalry" ],
       [ "RadarDetection", "structosi3_1_1RadarDetection.html", "structosi3_1_1RadarDetection" ],
       [ "RadarDetectionData", "structosi3_1_1RadarDetectionData.html", "structosi3_1_1RadarDetectionData" ],
       [ "RadarSensorView", "structosi3_1_1RadarSensorView.html", "structosi3_1_1RadarSensorView" ],
@@ -77,6 +86,13 @@ var annotated_dup =
       [ "UltrasonicSpecificObjectData", "structosi3_1_1UltrasonicSpecificObjectData.html", "structosi3_1_1UltrasonicSpecificObjectData" ],
       [ "Vector2d", "structosi3_1_1Vector2d.html", "structosi3_1_1Vector2d" ],
       [ "Vector3d", "structosi3_1_1Vector3d.html", "structosi3_1_1Vector3d" ],
+      [ "VehicleSteeringWheel", "structosi3_1_1VehicleSteeringWheel.html", "structosi3_1_1VehicleSteeringWheel" ],
       [ "WavelengthData", "structosi3_1_1WavelengthData.html", "structosi3_1_1WavelengthData" ]
+    ] ],
+    [ "proto", null, [
+      [ "test", null, [
+        [ "ImportedMessage", "structproto_1_1test_1_1ImportedMessage.html", "structproto_1_1test_1_1ImportedMessage" ],
+        [ "ProtoMessage", "structproto_1_1test_1_1ProtoMessage.html", "structproto_1_1test_1_1ProtoMessage" ]
+      ] ]
     ] ]
 ];
