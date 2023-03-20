@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['referencepoint',['ReferencePoint',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602a',1,'osi3::DetectedMovingObject']]]
+  ['operatingstate_2059',['OperatingState',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702',1,'osi3::HostVehicleData::VehicleBasics']]]
 ];

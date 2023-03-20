@@ -1,14 +1,11 @@
 var searchData=
 [
-  ['reference_5fpoint_5fcenter',['REFERENCE_POINT_CENTER',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aab2a14323c6f6439b740a6098d0818b7c',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5ffront_5fleft',['REFERENCE_POINT_FRONT_LEFT',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa83e02fdb86f71da9dabc87e94d9a4d38',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5ffront_5fmiddle',['REFERENCE_POINT_FRONT_MIDDLE',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa77c3b47e965ce23828b82a8d317e19ba',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5ffront_5fright',['REFERENCE_POINT_FRONT_RIGHT',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa829bb6d7abfb547c66cd58d8eb517b54',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5fmiddle_5fleft',['REFERENCE_POINT_MIDDLE_LEFT',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aae9277417c8401f773d607fb28b1ca831',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5fmiddle_5fright',['REFERENCE_POINT_MIDDLE_RIGHT',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aaff75477b04bc27b13c7ed3b4b01f7318',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5fother',['REFERENCE_POINT_OTHER',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa4a6328ac82e22e23b7e046e34bcef9a5',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5frear_5fleft',['REFERENCE_POINT_REAR_LEFT',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa872e4fc68085494dfe424e5655e73003',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5frear_5fmiddle',['REFERENCE_POINT_REAR_MIDDLE',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa231b49bc4489076438861d6a9bdb8c16',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5frear_5fright',['REFERENCE_POINT_REAR_RIGHT',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aa0e572bf2a3ea3e0b57e4d1fea60adef2',1,'osi3::DetectedMovingObject']]],
-  ['reference_5fpoint_5funknown',['REFERENCE_POINT_UNKNOWN',['../structosi3_1_1DetectedMovingObject.html#a586690081dd400b0794f1e013995602aadfb68f359b585fb5948c5fcd715544a0',1,'osi3::DetectedMovingObject']]]
+  ['operating_5fstate_5fboarding_2393',['OPERATING_STATE_BOARDING',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702af6146e63d6aca0f15c946ce26f249aa9',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5fdiagnostic_2394',['OPERATING_STATE_DIAGNOSTIC',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702a54ea3192bb3ff676ba4970793e2ca229',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5fdriving_2395',['OPERATING_STATE_DRIVING',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702a2f050931bf02c7f306de1450b9709f8e',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5fentertainment_2396',['OPERATING_STATE_ENTERTAINMENT',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702aa8b0a1d0ef96c762696edf097cff6168',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5fother_2397',['OPERATING_STATE_OTHER',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702a52485b5c9acb0ff58c1126c1d0e94de7',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5fsleep_2398',['OPERATING_STATE_SLEEP',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702a460c3f34f1e339f5914ccfbd71eb13d5',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5fstandby_2399',['OPERATING_STATE_STANDBY',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702ac6c23f8ec28db0fb25f8a9c0296d81be',1,'osi3::HostVehicleData::VehicleBasics']]],
+  ['operating_5fstate_5funknown_2400',['OPERATING_STATE_UNKNOWN',['../structosi3_1_1HostVehicleData_1_1VehicleBasics.html#a058a150670b43dceac811652c9429702a5567bde21c7b1dc6c782a88e81108038',1,'osi3::HostVehicleData::VehicleBasics']]]
 ];

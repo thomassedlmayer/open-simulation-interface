@@ -1,7 +1,34 @@
+/*
+ @licstart  The following is the entire license notice for the JavaScript code in this file.
+
+ The MIT License (MIT)
+
+ Copyright (C) 1997-2020 by Dimitri van Heesch
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ and associated documentation files (the "Software"), to deal in the Software without restriction,
+ including without limitation the rights to use, copy, modify, merge, publish, distribute,
+ sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in all copies or
+ substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+ @licend  The above is the entire license notice for the JavaScript code in this file
+*/
 var NAVTREE =
 [
   [ "open_simulation_interface", "index.html", [
-    [ "Open Simulation Interface (OSI)", "index.html", null ],
+    [ "Open Simulation Interface (OSI)", "index.html", [
+      [ "Usage", "index.html#autotoc_md11", null ],
+      [ "Installation", "index.html#autotoc_md13", null ]
+    ] ],
     [ "Todo List", "todo.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
@@ -19,14 +46,14 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-".html",
-"structosi3_1_1DetectedItemHeader.html#a3da007473f8976d9ae650a9b8a835078af1c7aa4e3a4fc4a5865e632eb7e33ed7",
-"structosi3_1_1HostVehicleData_1_1VehiclePowertrain_1_1Motor.html#ad401577a51f6f2af2f7e7d9c541ec295",
-"structosi3_1_1MovingObject_1_1VehicleClassification_1_1LightState.html#a4ff4d25be361bc831238a27a197503a6",
-"structosi3_1_1StatePoint.html#acfd675952f416ff9b42a90d4b9a1575f",
-"structosi3_1_1TrafficSign_1_1MainSign.html#ae363de582f13f08df687a1213c7dcaac",
-"structosi3_1_1TrafficSign_1_1MainSign_1_1Classification.html#af4bea9cfaada82922c78d06dff73b88daef321026db05acaea562ec97059e5382",
-"structproto_1_1test_1_1ProtoMessage.html#af698d209af8338ea70dc2ff54fad96c2"
+"annotated.html",
+"structosi3_1_1DetectedItemHeader.html#a0eebf86e3e489299119402dc9b3b87a3",
+"structosi3_1_1HostVehicleData.html#a02fd3acdf85d92c3cfe933d250a3c69b",
+"structosi3_1_1LidarSensorView_1_1Reflection.html#a0747cfd174a577b0061ebe7ff9ccfd4c",
+"structosi3_1_1Occupant_1_1Classification.html#abac264f20a3e5379b4b2969881af56a6a7bfaa10ee0ab6678d489674cec1559c8",
+"structosi3_1_1StationaryObject_1_1Classification.html#aa3f3a0944f19ae7fa3aa55d700ac009ba7231f8b5d9a08a5cf2683fa28c40313a",
+"structosi3_1_1TrafficSign_1_1MainSign_1_1Classification.html#aef21f38caa61148c2417f0c1e62a3872",
+"structosi3_1_1TrafficSign_1_1SupplementarySign_1_1Classification.html#a24b0102d61ea7c2f6c7123e2f366e766"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
