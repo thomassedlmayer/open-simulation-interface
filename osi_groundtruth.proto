@@ -164,6 +164,7 @@ message GroundTruth
     // 3d models. The parts the world model contains are also implementation-specific.
     // For example, the world model can either contain street geometries or
     // derives street geometries automatically from a map reference.
+    // <a href="https://testabc.com/misspeled-worrd/" title="title" alt="alternative">Spellchecker test</a>
     //
     optional string model_reference = 16;
 
