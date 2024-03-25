@@ -19,6 +19,7 @@ auch
 auf
 auml
 Ausfahrt
+außer
 Baugebiet
 Baustelle
 Baustellen
@@ -88,6 +89,7 @@ dt
 Duesseldorf
 Durchgangsverkehr
 dvr
+dürfen
 easting
 EBIKES
 edn
@@ -126,6 +128,8 @@ Fak
 fcm
 fehlende
 Feiertagen
+Flächen
+flächen
 fmu
 Formelsammlung
 Formelzeichen
@@ -137,6 +141,7 @@ fuer
 fullreports
 ge
 geb
+gebührenpflichtig
 Gedeon
 Gefahrenzeichen
 gekennzeichneten
@@ -144,6 +149,7 @@ gekennzeichneter
 Gelegenheitsverkehr
 Geospatial
 gesetze
+geändert
 github
 glichkeit
 GNSS
@@ -151,6 +157,7 @@ grayscale
 gridded
 Groessen
 GroundTruthInit
+Grüne
 gulleys
 haben
 Hafengebiet
@@ -207,6 +214,8 @@ lte
 luminance
 luv
 lx
+Lärmschutz
+Lärmschutz
 Mainz
 Meteorologische
 metoffice
@@ -238,8 +247,8 @@ oktas
 ONEWAY
 onlinepubs
 ONRAMP
-opengroup
 opendrive
+opengroup
 openscenario
 optischen
 Ordnung
@@ -252,8 +261,10 @@ parametrize
 Parkausweis
 Parken
 Parkfl
+Parkflächen
 Parkschein
 Parkst
+Parkstände
 Paulat
 pdf
 png
@@ -279,6 +290,7 @@ rcs
 rdquo
 README
 Rei
+Reißverschluss
 rfc
 rfen
 rgb
@@ -289,6 +301,7 @@ rmschutz
 rmse
 Rollsplitt
 Rosenberger
+räumen
 Sa
 SAE
 sae
@@ -317,6 +330,7 @@ Strahlungsphysik
 Strassenfahrzeuge
 Strassenverkehrs
 strassenverkehrsordnung
+Straßenschaden
 StVO
 stvo
 StVZO
@@ -355,6 +369,7 @@ vda
 verkehr
 Verkehrseinrichtungen
 Verkehrsf
+Verkehrsführung
 Verkehrstechnik
 verkehrszeichen
 verschluss
@@ -363,12 +378,13 @@ Vorfahrt
 Vorschriftzeichen
 Vorweg
 vz
-vzkat
 VzKat
+vzkat
 wa
 Welle
 Wellenausbreitung
 Wendem
+Wendemöglichkeit
 werden
 werktags
 Wernli
@@ -380,6 +396,7 @@ wp
 wsdot
 www
 www
+während
 xrat
 XXXX
 xy
@@ -389,3 +406,5 @@ Zeitschrift
 Zou
 Zufahrt
 Zuflussregelung
+Ölspur
+überholt
