@@ -244,6 +244,10 @@ message TrafficAction
         // trajectory points. The orientation fields can be set
         // depending on the constrain_orientation field being true.
         //
+        // \note The position and orientation are given in the global coordinate
+        // system. The reference point follows the specification of \c BaseMoving
+        // for the controlled traffic participant.
+        //
         // \note OSI uses singular instead of plural for repeated field names.
         //
         repeated StatePoint trajectory_point = 2;
@@ -288,6 +292,10 @@ message TrafficAction
         // The timestamp field are not required and ignored.
         // The orientation fields can be set depending on the constrain_orientation
         // field being true.
+        //
+        // \note The position and orientation are given in the global coordinate
+        // system. The reference point follows the specification of \c BaseMoving
+        // for the controlled traffic participant.
         //
         // \note OSI uses singular instead of plural for repeated field names.
         //

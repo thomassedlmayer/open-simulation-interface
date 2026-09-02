@@ -90,7 +90,6 @@ message DetectedItemHeader
         MEASUREMENT_STATE_PREDICTED = 3;
     }
 }
-    
 
 //
 // \brief A stationary object (e.g. landmark) in the environment as detected by
@@ -281,6 +280,10 @@ message DetectedMovingObject
     // when the detected moving object is expected to reach the position and 
     // orientation of the trajectory point.
     //
+    // \note The pose of the StatePoint relates to the same coordinate system
+    // as the detected moving object itself. The reference point follows the
+    // specification of \c BaseMoving.
+    //
     repeated StatePoint estimated_trajectory = 10;
 
     // Additional data that is specific to radar sensors.
@@ -393,6 +396,18 @@ message DetectedMovingObject
         // Specific information about the classification of a moving object.
         //
         optional MovingObject.MovingObjectClassification moving_object_classification = 6;        
+
+        // Estimated future trajectory
+        //
+        // \note The timestamp of the StatePoint denotes a future point in time,
+        // when the detected moving object candidate is expected to reach the position
+        // and orientation of the trajectory point.
+        //
+        // \note The pose of the StatePoint relates to the same coordinate system as the
+        // detected moving object itself. The reference point follows the
+        // specification of \c BaseMoving.
+        //
+        repeated StatePoint estimated_trajectory = 7;
     }
 
     // Definition of available reference points. Left/middle/right and

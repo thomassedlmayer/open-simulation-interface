@@ -721,6 +721,10 @@ message BaseMoving
 // The context defines how and what fields are used.  For example, in some cases
 // only the pose variables are relevant and the timestamp is ignored.
 //
+// \note The definition of the reference coordinate system and the
+// reference point shall be specified in the message where StatePoint is
+// used.
+//
 message StatePoint
 {
     // The timestamp of a StatePoint.
@@ -729,15 +733,11 @@ message StatePoint
     //
     optional Timestamp timestamp = 1;
 
-    // Position in the global coordinate system.
-    //
-    // \note Remark: The definition of the reference point follows the
-    // specification of the \c BaseMoving message, if not specified otherwise
-    // in the message the StatePoint is used in.
+    // Position of the reference point in the reference coordinate system.
     //
     optional Vector3d position = 2;
 
-    // Orientation in the global coordinate system.
+    // Orientation in the reference coordinate system.
     //
     optional Orientation3d orientation = 3;
 }
